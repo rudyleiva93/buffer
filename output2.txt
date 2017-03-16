@@ -1,0 +1,913 @@
+0
+0
+0
+Producer tries to insert 935 at time Fri Mar 18 08:30:02 2016
+ (Program clock (ticks): 963) (Thread ID: 139914954372864)
+Consumer tries to consume at time Fri Mar 18 08:30:02 2016
+ (Program clock (ticks): 1150) (Thread ID: 139914920802048)
+Producer produced 935 at time Fri Mar 18 08:30:02 2016
+ (Program clock (ticks): 1180) (Thread ID: 139914954372864)
+slot 0: 935
+slot 1: -1
+slot 2: -1
+slot 3: -1
+slot 4: -1
+
+Producer tries to insert 702 at time Fri Mar 18 08:30:02 2016
+ (Program clock (ticks): 1003) (Thread ID: 139914929194752)
+Consumer consumed 935 at time Fri Mar 18 08:30:02 2016
+ (Program clock (ticks): 1360) (Thread ID: 139914920802048)
+slot 0: -1
+slot 1: -1
+slot 2: -1
+slot 3: -1
+slot 4: -1
+
+Producer produced 702 at time Fri Mar 18 08:30:02 2016
+ (Program clock (ticks): 1424) (Thread ID: 139914929194752)
+slot 0: -1
+slot 1: 702
+slot 2: -1
+slot 3: -1
+slot 4: -1
+
+Producer tries to insert 591 at time Fri Mar 18 08:30:02 2016
+ (Program clock (ticks): 1432) (Thread ID: 139914929194752)
+Producer produced 591 at time Fri Mar 18 08:30:02 2016
+ (Program clock (ticks): 1436) (Thread ID: 139914929194752)
+slot 0: -1
+slot 1: 702
+slot 2: 591
+slot 3: -1
+slot 4: -1
+
+Producer tries to insert 772 at time Fri Mar 18 08:30:03 2016
+ (Program clock (ticks): 1494) (Thread ID: 139914945980160)
+Producer produced 772 at time Fri Mar 18 08:30:03 2016
+ (Program clock (ticks): 1623) (Thread ID: 139914945980160)
+slot 0: -1
+slot 1: 702
+slot 2: 591
+slot 3: 772
+slot 4: -1
+
+Producer tries to insert 608 at time Fri Mar 18 08:30:03 2016
+ (Program clock (ticks): 1638) (Thread ID: 139914945980160)
+Producer produced 608 at time Fri Mar 18 08:30:03 2016
+ (Program clock (ticks): 1645) (Thread ID: 139914945980160)
+slot 0: -1
+slot 1: 702
+slot 2: 591
+slot 3: 772
+slot 4: 608
+
+Producer tries to insert 393 at time Fri Mar 18 08:30:04 2016
+ (Program clock (ticks): 1765) (Thread ID: 139914962765568)
+Producer produced 393 at time Fri Mar 18 08:30:04 2016
+ (Program clock (ticks): 1919) (Thread ID: 139914962765568)
+slot 0: 393
+slot 1: 702
+slot 2: 591
+slot 3: 772
+slot 4: 608
+
+Producer tries to insert 563 at time Fri Mar 18 08:30:04 2016
+ (Program clock (ticks): 1939) (Thread ID: 139914929194752)
+Consumer tries to consume at time Fri Mar 18 08:30:04 2016
+ (Program clock (ticks): 1765) (Thread ID: 139914912409344)
+Consumer consumed 702 at time Fri Mar 18 08:30:04 2016
+ (Program clock (ticks): 1979) (Thread ID: 139914912409344)
+slot 0: 393
+slot 1: -1
+slot 2: 591
+slot 3: 772
+slot 4: 608
+
+Producer produced 563 at time Fri Mar 18 08:30:04 2016
+ (Program clock (ticks): 1989) (Thread ID: 139914929194752)
+slot 0: 393
+slot 1: 563
+slot 2: 591
+slot 3: 772
+slot 4: 608
+
+Producer tries to insert 159 at time Fri Mar 18 08:30:04 2016
+ (Program clock (ticks): 1993) (Thread ID: 139914929194752)
+Producer tries to insert 169 at time Fri Mar 18 08:30:05 2016
+ (Program clock (ticks): 2033) (Thread ID: 139914937587456)
+Consumer tries to consume at time Fri Mar 18 08:30:05 2016
+ (Program clock (ticks): 2167) (Thread ID: 139914895623936)
+Consumer consumed 591 at time Fri Mar 18 08:30:05 2016
+ (Program clock (ticks): 2249) (Thread ID: 139914895623936)
+slot 0: 393
+slot 1: 563
+slot 2: -1
+slot 3: 772
+slot 4: 608
+
+Producer produced 159 at time Fri Mar 18 08:30:05 2016
+ (Program clock (ticks): 2282) (Thread ID: 139914929194752)
+slot 0: 393
+slot 1: 563
+slot 2: 159
+slot 3: 772
+slot 4: 608
+
+Producer tries to insert 575 at time Fri Mar 18 08:30:05 2016
+ (Program clock (ticks): 2291) (Thread ID: 139914929194752)
+Consumer tries to consume at time Fri Mar 18 08:30:06 2016
+ (Program clock (ticks): 2351) (Thread ID: 139914920802048)
+Consumer consumed 772 at time Fri Mar 18 08:30:06 2016
+ (Program clock (ticks): 2420) (Thread ID: 139914920802048)
+slot 0: 393
+slot 1: 563
+slot 2: 159
+slot 3: -1
+slot 4: 608
+
+Producer produced 169 at time Fri Mar 18 08:30:06 2016
+ (Program clock (ticks): 2475) (Thread ID: 139914937587456)
+slot 0: 393
+slot 1: 563
+slot 2: 159
+slot 3: 169
+slot 4: 608
+
+Consumer tries to consume at time Fri Mar 18 08:30:06 2016
+ (Program clock (ticks): 2505) (Thread ID: 139914904016640)
+Consumer consumed 608 at time Fri Mar 18 08:30:06 2016
+ (Program clock (ticks): 2644) (Thread ID: 139914904016640)
+slot 0: 393
+slot 1: 563
+slot 2: 159
+slot 3: 169
+slot 4: -1
+
+Producer produced 575 at time Fri Mar 18 08:30:06 2016
+ (Program clock (ticks): 2727) (Thread ID: 139914929194752)
+slot 0: 393
+slot 1: 563
+slot 2: 159
+slot 3: 169
+slot 4: 575
+
+Producer tries to insert 269 at time Fri Mar 18 08:30:06 2016
+ (Program clock (ticks): 3030) (Thread ID: 139914954372864)
+Consumer tries to consume at time Fri Mar 18 08:30:06 2016
+ (Program clock (ticks): 3083) (Thread ID: 139914887231232)
+Consumer consumed 393 at time Fri Mar 18 08:30:06 2016
+ (Program clock (ticks): 3139) (Thread ID: 139914887231232)
+slot 0: -1
+slot 1: 563
+slot 2: 159
+slot 3: 169
+slot 4: 575
+
+Producer produced 269 at time Fri Mar 18 08:30:06 2016
+ (Program clock (ticks): 3159) (Thread ID: 139914954372864)
+slot 0: 269
+slot 1: 563
+slot 2: 159
+slot 3: 169
+slot 4: 575
+
+Producer tries to insert 196 at time Fri Mar 18 08:30:06 2016
+ (Program clock (ticks): 3171) (Thread ID: 139914954372864)
+Producer tries to insert 528 at time Fri Mar 18 08:30:06 2016
+ (Program clock (ticks): 3207) (Thread ID: 139914962765568)
+Consumer tries to consume at time Fri Mar 18 08:30:07 2016
+ (Program clock (ticks): 3273) (Thread ID: 139914887231232)
+Producer tries to insert 223 at time Fri Mar 18 08:30:07 2016
+ (Program clock (ticks): 3386) (Thread ID: 139914945980160)
+Consumer tries to consume at time Fri Mar 18 08:30:07 2016
+ (Program clock (ticks): 3352) (Thread ID: 139914912409344)
+Consumer tries to consume at time Fri Mar 18 08:30:07 2016
+ (Program clock (ticks): 3586) (Thread ID: 139914904016640)
+Consumer consumed 563 at time Fri Mar 18 08:30:07 2016
+ (Program clock (ticks): 3519) (Thread ID: 139914887231232)
+slot 0: 269
+slot 1: -1
+slot 2: 159
+slot 3: 169
+slot 4: 575
+
+Consumer consumed 159 at time Fri Mar 18 08:30:07 2016
+ (Program clock (ticks): 3616) (Thread ID: 139914912409344)
+slot 0: 269
+slot 1: -1
+slot 2: -1
+slot 3: 169
+slot 4: 575
+
+Producer produced 196 at time Fri Mar 18 08:30:07 2016
+ (Program clock (ticks): 3644) (Thread ID: 139914954372864)
+slot 0: 269
+slot 1: 196
+slot 2: -1
+slot 3: 169
+slot 4: 575
+
+Consumer consumed 169 at time Fri Mar 18 08:30:07 2016
+ (Program clock (ticks): 3664) (Thread ID: 139914904016640)
+slot 0: 269
+slot 1: 196
+slot 2: -1
+slot 3: -1
+slot 4: 575
+
+Producer produced 223 at time Fri Mar 18 08:30:07 2016
+ (Program clock (ticks): 3729) (Thread ID: 139914945980160)
+slot 0: 269
+slot 1: 196
+slot 2: 223
+slot 3: -1
+slot 4: 575
+
+Producer produced 528 at time Fri Mar 18 08:30:07 2016
+ (Program clock (ticks): 3783) (Thread ID: 139914962765568)
+slot 0: 269
+slot 1: 196
+slot 2: 223
+slot 3: 528
+slot 4: 575
+
+Consumer tries to consume at time Fri Mar 18 08:30:08 2016
+ (Program clock (ticks): 3886) (Thread ID: 139914920802048)
+Consumer consumed 575 at time Fri Mar 18 08:30:08 2016
+ (Program clock (ticks): 3945) (Thread ID: 139914920802048)
+slot 0: 269
+slot 1: 196
+slot 2: 223
+slot 3: 528
+slot 4: -1
+
+Producer tries to insert 609 at time Fri Mar 18 08:30:08 2016
+ (Program clock (ticks): 3976) (Thread ID: 139914937587456)
+Producer produced 609 at time Fri Mar 18 08:30:08 2016
+ (Program clock (ticks): 3985) (Thread ID: 139914937587456)
+slot 0: 269
+slot 1: 196
+slot 2: 223
+slot 3: 528
+slot 4: 609
+
+Consumer tries to consume at time Fri Mar 18 08:30:08 2016
+ (Program clock (ticks): 4046) (Thread ID: 139914912409344)
+Consumer consumed 269 at time Fri Mar 18 08:30:08 2016
+ (Program clock (ticks): 4107) (Thread ID: 139914912409344)
+slot 0: -1
+slot 1: 196
+slot 2: 223
+slot 3: 528
+slot 4: 609
+
+Consumer tries to consume at time Fri Mar 18 08:30:08 2016
+ (Program clock (ticks): 4139) (Thread ID: 139914887231232)
+Consumer consumed 196 at time Fri Mar 18 08:30:08 2016
+ (Program clock (ticks): 4148) (Thread ID: 139914887231232)
+slot 0: -1
+slot 1: -1
+slot 2: 223
+slot 3: 528
+slot 4: 609
+
+Producer tries to insert 478 at time Fri Mar 18 08:30:09 2016
+ (Program clock (ticks): 4212) (Thread ID: 139914929194752)
+Producer produced 478 at time Fri Mar 18 08:30:09 2016
+ (Program clock (ticks): 4276) (Thread ID: 139914929194752)
+slot 0: 478
+slot 1: -1
+slot 2: 223
+slot 3: 528
+slot 4: 609
+
+Producer tries to insert 215 at time Fri Mar 18 08:30:09 2016
+ (Program clock (ticks): 4462) (Thread ID: 139914954372864)
+Producer produced 215 at time Fri Mar 18 08:30:09 2016
+ (Program clock (ticks): 4582) (Thread ID: 139914954372864)
+slot 0: 478
+slot 1: 215
+slot 2: 223
+slot 3: 528
+slot 4: 609
+
+Consumer tries to consume at time Fri Mar 18 08:30:09 2016
+ (Program clock (ticks): 4462) (Thread ID: 139914895623936)
+Consumer tries to consume at time Fri Mar 18 08:30:09 2016
+ (Program clock (ticks): 4684) (Thread ID: 139914904016640)
+Consumer consumed 223 at time Fri Mar 18 08:30:09 2016
+ (Program clock (ticks): 4703) (Thread ID: 139914895623936)
+slot 0: 478
+slot 1: 215
+slot 2: -1
+slot 3: 528
+slot 4: 609
+
+Producer tries to insert 156 at time Fri Mar 18 08:30:09 2016
+ (Program clock (ticks): 4501) (Thread ID: 139914962765568)
+Producer produced 156 at time Fri Mar 18 08:30:09 2016
+ (Program clock (ticks): 4763) (Thread ID: 139914962765568)
+slot 0: 478
+slot 1: 215
+slot 2: 156
+slot 3: 528
+slot 4: 609
+
+Consumer consumed 528 at time Fri Mar 18 08:30:09 2016
+ (Program clock (ticks): 4787) (Thread ID: 139914904016640)
+slot 0: 478
+slot 1: 215
+slot 2: 156
+slot 3: -1
+slot 4: 609
+
+Consumer tries to consume at time Fri Mar 18 08:30:09 2016
+ (Program clock (ticks): 4804) (Thread ID: 139914904016640)
+Consumer consumed 609 at time Fri Mar 18 08:30:09 2016
+ (Program clock (ticks): 4810) (Thread ID: 139914904016640)
+slot 0: 478
+slot 1: 215
+slot 2: 156
+slot 3: -1
+slot 4: -1
+
+Consumer tries to consume at time Fri Mar 18 08:30:09 2016
+ (Program clock (ticks): 4860) (Thread ID: 139914887231232)
+Consumer consumed 478 at time Fri Mar 18 08:30:09 2016
+ (Program clock (ticks): 4901) (Thread ID: 139914887231232)
+slot 0: -1
+slot 1: 215
+slot 2: 156
+slot 3: -1
+slot 4: -1
+
+Producer tries to insert 956 at time Fri Mar 18 08:30:10 2016
+ (Program clock (ticks): 5007) (Thread ID: 139914945980160)
+Producer produced 956 at time Fri Mar 18 08:30:10 2016
+ (Program clock (ticks): 5095) (Thread ID: 139914945980160)
+slot 0: -1
+slot 1: 215
+slot 2: 156
+slot 3: 956
+slot 4: -1
+
+Consumer tries to consume at time Fri Mar 18 08:30:10 2016
+ (Program clock (ticks): 5175) (Thread ID: 139914920802048)
+Consumer consumed 215 at time Fri Mar 18 08:30:10 2016
+ (Program clock (ticks): 5196) (Thread ID: 139914920802048)
+slot 0: -1
+slot 1: -1
+slot 2: 156
+slot 3: 956
+slot 4: -1
+
+Producer tries to insert 450 at time Fri Mar 18 08:30:11 2016
+ (Program clock (ticks): 5265) (Thread ID: 139914962765568)
+Producer produced 450 at time Fri Mar 18 08:30:11 2016
+ (Program clock (ticks): 5323) (Thread ID: 139914962765568)
+slot 0: -1
+slot 1: -1
+slot 2: 156
+slot 3: 956
+slot 4: 450
+
+Producer tries to insert 29 at time Fri Mar 18 08:30:12 2016
+ (Program clock (ticks): 5398) (Thread ID: 139914937587456)
+Producer produced 29 at time Fri Mar 18 08:30:12 2016
+ (Program clock (ticks): 5457) (Thread ID: 139914937587456)
+slot 0: 29
+slot 1: -1
+slot 2: 156
+slot 3: 956
+slot 4: 450
+
+Consumer tries to consume at time Fri Mar 18 08:30:12 2016
+ (Program clock (ticks): 5487) (Thread ID: 139914912409344)
+Consumer consumed 156 at time Fri Mar 18 08:30:12 2016
+ (Program clock (ticks): 5497) (Thread ID: 139914912409344)
+slot 0: 29
+slot 1: -1
+slot 2: -1
+slot 3: 956
+slot 4: 450
+
+Producer tries to insert 557 at time Fri Mar 18 08:30:13 2016
+ (Program clock (ticks): 5559) (Thread ID: 139914929194752)
+Producer produced 557 at time Fri Mar 18 08:30:13 2016
+ (Program clock (ticks): 5622) (Thread ID: 139914929194752)
+slot 0: 29
+slot 1: 557
+slot 2: -1
+slot 3: 956
+slot 4: 450
+
+Consumer tries to consume at time Fri Mar 18 08:30:13 2016
+ (Program clock (ticks): 5819) (Thread ID: 139914912409344)
+Producer tries to insert 113 at time Fri Mar 18 08:30:13 2016
+ (Program clock (ticks): 6034) (Thread ID: 139914954372864)
+Consumer tries to consume at time Fri Mar 18 08:30:13 2016
+ (Program clock (ticks): 5829) (Thread ID: 139914895623936)
+Producer tries to insert 761 at time Fri Mar 18 08:30:13 2016
+ (Program clock (ticks): 5893) (Thread ID: 139914962765568)
+Consumer tries to consume at time Fri Mar 18 08:30:13 2016
+ (Program clock (ticks): 6237) (Thread ID: 139914887231232)
+Producer tries to insert 513 at time Fri Mar 18 08:30:13 2016
+ (Program clock (ticks): 6116) (Thread ID: 139914945980160)
+Consumer consumed 956 at time Fri Mar 18 08:30:13 2016
+ (Program clock (ticks): 5998) (Thread ID: 139914912409344)
+slot 0: 29
+slot 1: 557
+slot 2: -1
+slot 3: -1
+slot 4: 450
+
+Consumer tries to consume at time Fri Mar 18 08:30:13 2016
+ (Program clock (ticks): 6302) (Thread ID: 139914912409344)
+Consumer consumed 450 at time Fri Mar 18 08:30:13 2016
+ (Program clock (ticks): 6310) (Thread ID: 139914912409344)
+slot 0: 29
+slot 1: 557
+slot 2: -1
+slot 3: -1
+slot 4: -1
+
+Producer produced 113 at time Fri Mar 18 08:30:13 2016
+ (Program clock (ticks): 6333) (Thread ID: 139914954372864)
+slot 0: 29
+slot 1: 557
+slot 2: 113
+slot 3: -1
+slot 4: -1
+
+Producer tries to insert 17 at time Fri Mar 18 08:30:13 2016
+ (Program clock (ticks): 6347) (Thread ID: 139914954372864)
+Producer produced 17 at time Fri Mar 18 08:30:13 2016
+ (Program clock (ticks): 6354) (Thread ID: 139914954372864)
+slot 0: 29
+slot 1: 557
+slot 2: 113
+slot 3: 17
+slot 4: -1
+
+Consumer consumed 29 at time Fri Mar 18 08:30:13 2016
+ (Program clock (ticks): 6368) (Thread ID: 139914895623936)
+slot 0: -1
+slot 1: 557
+slot 2: 113
+slot 3: 17
+slot 4: -1
+
+Producer produced 513 at time Fri Mar 18 08:30:13 2016
+ (Program clock (ticks): 6385) (Thread ID: 139914945980160)
+slot 0: -1
+slot 1: 557
+slot 2: 113
+slot 3: 17
+slot 4: 513
+
+Producer produced 761 at time Fri Mar 18 08:30:13 2016
+ (Program clock (ticks): 6399) (Thread ID: 139914962765568)
+slot 0: 761
+slot 1: 557
+slot 2: 113
+slot 3: 17
+slot 4: 513
+
+Consumer tries to consume at time Fri Mar 18 08:30:13 2016
+ (Program clock (ticks): 5927) (Thread ID: 139914904016640)
+Consumer consumed 557 at time Fri Mar 18 08:30:13 2016
+ (Program clock (ticks): 6416) (Thread ID: 139914904016640)
+slot 0: 761
+slot 1: -1
+slot 2: 113
+slot 3: 17
+slot 4: 513
+
+Consumer consumed 113 at time Fri Mar 18 08:30:13 2016
+ (Program clock (ticks): 6431) (Thread ID: 139914887231232)
+slot 0: 761
+slot 1: -1
+slot 2: -1
+slot 3: 17
+slot 4: 513
+
+Consumer tries to consume at time Fri Mar 18 08:30:13 2016
+ (Program clock (ticks): 6441) (Thread ID: 139914887231232)
+Consumer consumed 17 at time Fri Mar 18 08:30:13 2016
+ (Program clock (ticks): 6447) (Thread ID: 139914887231232)
+slot 0: 761
+slot 1: -1
+slot 2: -1
+slot 3: -1
+slot 4: 513
+
+Consumer tries to consume at time Fri Mar 18 08:30:13 2016
+ (Program clock (ticks): 6455) (Thread ID: 139914887231232)
+Consumer consumed 513 at time Fri Mar 18 08:30:13 2016
+ (Program clock (ticks): 6461) (Thread ID: 139914887231232)
+slot 0: 761
+slot 1: -1
+slot 2: -1
+slot 3: -1
+slot 4: -1
+
+Consumer tries to consume at time Fri Mar 18 08:30:13 2016
+ (Program clock (ticks): 6469) (Thread ID: 139914887231232)
+Consumer consumed 761 at time Fri Mar 18 08:30:13 2016
+ (Program clock (ticks): 6475) (Thread ID: 139914887231232)
+slot 0: -1
+slot 1: -1
+slot 2: -1
+slot 3: -1
+slot 4: -1
+
+Consumer tries to consume at time Fri Mar 18 08:30:14 2016
+ (Program clock (ticks): 6530) (Thread ID: 139914920802048)
+Producer tries to insert 179 at time Fri Mar 18 08:30:14 2016
+ (Program clock (ticks): 6618) (Thread ID: 139914945980160)
+Producer produced 179 at time Fri Mar 18 08:30:14 2016
+ (Program clock (ticks): 6661) (Thread ID: 139914945980160)
+slot 0: -1
+slot 1: 179
+slot 2: -1
+slot 3: -1
+slot 4: -1
+
+Consumer consumed 179 at time Fri Mar 18 08:30:14 2016
+ (Program clock (ticks): 6688) (Thread ID: 139914920802048)
+slot 0: -1
+slot 1: -1
+slot 2: -1
+slot 3: -1
+slot 4: -1
+
+Consumer tries to consume at time Fri Mar 18 08:30:14 2016
+ (Program clock (ticks): 6702) (Thread ID: 139914912409344)
+Producer tries to insert 949 at time Fri Mar 18 08:30:15 2016
+ (Program clock (ticks): 6739) (Thread ID: 139914937587456)
+Producer produced 949 at time Fri Mar 18 08:30:15 2016
+ (Program clock (ticks): 6781) (Thread ID: 139914937587456)
+slot 0: -1
+slot 1: -1
+slot 2: 949
+slot 3: -1
+slot 4: -1
+
+Consumer consumed 949 at time Fri Mar 18 08:30:15 2016
+ (Program clock (ticks): 6803) (Thread ID: 139914912409344)
+slot 0: -1
+slot 1: -1
+slot 2: -1
+slot 3: -1
+slot 4: -1
+
+Producer tries to insert 67 at time Fri Mar 18 08:30:16 2016
+ (Program clock (ticks): 6899) (Thread ID: 139914929194752)
+Producer produced 67 at time Fri Mar 18 08:30:16 2016
+ (Program clock (ticks): 6956) (Thread ID: 139914929194752)
+slot 0: -1
+slot 1: -1
+slot 2: -1
+slot 3: 67
+slot 4: -1
+
+Producer tries to insert 2 at time Fri Mar 18 08:30:16 2016
+ (Program clock (ticks): 7026) (Thread ID: 139914954372864)
+Producer produced 2 at time Fri Mar 18 08:30:16 2016
+ (Program clock (ticks): 7081) (Thread ID: 139914954372864)
+slot 0: -1
+slot 1: -1
+slot 2: -1
+slot 3: 67
+slot 4: 2
+
+Producer tries to insert 558 at time Fri Mar 18 08:30:16 2016
+ (Program clock (ticks): 7093) (Thread ID: 139914954372864)
+Producer produced 558 at time Fri Mar 18 08:30:16 2016
+ (Program clock (ticks): 7099) (Thread ID: 139914954372864)
+slot 0: 558
+slot 1: -1
+slot 2: -1
+slot 3: 67
+slot 4: 2
+
+Consumer tries to consume at time Fri Mar 18 08:30:16 2016
+ (Program clock (ticks): 7124) (Thread ID: 139914904016640)
+Consumer consumed 67 at time Fri Mar 18 08:30:16 2016
+ (Program clock (ticks): 7133) (Thread ID: 139914904016640)
+slot 0: 558
+slot 1: -1
+slot 2: -1
+slot 3: -1
+slot 4: 2
+
+Consumer tries to consume at time Fri Mar 18 08:30:16 2016
+ (Program clock (ticks): 7189) (Thread ID: 139914920802048)
+Consumer consumed 2 at time Fri Mar 18 08:30:16 2016
+ (Program clock (ticks): 7247) (Thread ID: 139914920802048)
+slot 0: 558
+slot 1: -1
+slot 2: -1
+slot 3: -1
+slot 4: -1
+
+Producer tries to insert 277 at time Fri Mar 18 08:30:16 2016
+ (Program clock (ticks): 7279) (Thread ID: 139914945980160)
+Producer produced 277 at time Fri Mar 18 08:30:16 2016
+ (Program clock (ticks): 7289) (Thread ID: 139914945980160)
+slot 0: 558
+slot 1: 277
+slot 2: -1
+slot 3: -1
+slot 4: -1
+
+Producer tries to insert 919 at time Fri Mar 18 08:30:16 2016
+ (Program clock (ticks): 7300) (Thread ID: 139914945980160)
+Producer produced 919 at time Fri Mar 18 08:30:16 2016
+ (Program clock (ticks): 7307) (Thread ID: 139914945980160)
+slot 0: 558
+slot 1: 277
+slot 2: 919
+slot 3: -1
+slot 4: -1
+
+Consumer tries to consume at time Fri Mar 18 08:30:17 2016
+ (Program clock (ticks): 7396) (Thread ID: 139914912409344)
+Consumer consumed 558 at time Fri Mar 18 08:30:17 2016
+ (Program clock (ticks): 7476) (Thread ID: 139914912409344)
+slot 0: -1
+slot 1: 277
+slot 2: 919
+slot 3: -1
+slot 4: -1
+
+Consumer tries to consume at time Fri Mar 18 08:30:17 2016
+ (Program clock (ticks): 7499) (Thread ID: 139914912409344)
+Consumer consumed 277 at time Fri Mar 18 08:30:17 2016
+ (Program clock (ticks): 7511) (Thread ID: 139914912409344)
+slot 0: -1
+slot 1: -1
+slot 2: 919
+slot 3: -1
+slot 4: -1
+
+Consumer tries to consume at time Fri Mar 18 08:30:17 2016
+ (Program clock (ticks): 7588) (Thread ID: 139914895623936)
+Consumer consumed 919 at time Fri Mar 18 08:30:17 2016
+ (Program clock (ticks): 7633) (Thread ID: 139914895623936)
+slot 0: -1
+slot 1: -1
+slot 2: -1
+slot 3: -1
+slot 4: -1
+
+Producer tries to insert 590 at time Fri Mar 18 08:30:17 2016
+ (Program clock (ticks): 7659) (Thread ID: 139914954372864)
+Producer produced 590 at time Fri Mar 18 08:30:17 2016
+ (Program clock (ticks): 7669) (Thread ID: 139914954372864)
+slot 0: -1
+slot 1: -1
+slot 2: -1
+slot 3: 590
+slot 4: -1
+
+Producer tries to insert 84 at time Fri Mar 18 08:30:17 2016
+ (Program clock (ticks): 7679) (Thread ID: 139914954372864)
+Producer produced 84 at time Fri Mar 18 08:30:17 2016
+ (Program clock (ticks): 7685) (Thread ID: 139914954372864)
+slot 0: -1
+slot 1: -1
+slot 2: -1
+slot 3: 590
+slot 4: 84
+
+Producer tries to insert 88 at time Fri Mar 18 08:30:17 2016
+ (Program clock (ticks): 7702) (Thread ID: 139914962765568)
+Producer produced 88 at time Fri Mar 18 08:30:17 2016
+ (Program clock (ticks): 7710) (Thread ID: 139914962765568)
+slot 0: 88
+slot 1: -1
+slot 2: -1
+slot 3: 590
+slot 4: 84
+
+Producer tries to insert 489 at time Fri Mar 18 08:30:17 2016
+ (Program clock (ticks): 7719) (Thread ID: 139914962765568)
+Producer produced 489 at time Fri Mar 18 08:30:17 2016
+ (Program clock (ticks): 7725) (Thread ID: 139914962765568)
+slot 0: 88
+slot 1: 489
+slot 2: -1
+slot 3: 590
+slot 4: 84
+
+Consumer tries to consume at time Fri Mar 18 08:30:17 2016
+ (Program clock (ticks): 7831) (Thread ID: 139914920802048)
+Consumer consumed 590 at time Fri Mar 18 08:30:17 2016
+ (Program clock (ticks): 7844) (Thread ID: 139914920802048)
+slot 0: 88
+slot 1: 489
+slot 2: -1
+slot 3: -1
+slot 4: 84
+
+Consumer tries to consume at time Fri Mar 18 08:30:17 2016
+ (Program clock (ticks): 7859) (Thread ID: 139914904016640)
+Consumer consumed 84 at time Fri Mar 18 08:30:17 2016
+ (Program clock (ticks): 7867) (Thread ID: 139914904016640)
+slot 0: 88
+slot 1: 489
+slot 2: -1
+slot 3: -1
+slot 4: -1
+
+Consumer tries to consume at time Fri Mar 18 08:30:17 2016
+ (Program clock (ticks): 7882) (Thread ID: 139914887231232)
+Consumer consumed 88 at time Fri Mar 18 08:30:17 2016
+ (Program clock (ticks): 7890) (Thread ID: 139914887231232)
+slot 0: -1
+slot 1: 489
+slot 2: -1
+slot 3: -1
+slot 4: -1
+
+Consumer tries to consume at time Fri Mar 18 08:30:17 2016
+ (Program clock (ticks): 7899) (Thread ID: 139914887231232)
+Consumer consumed 489 at time Fri Mar 18 08:30:17 2016
+ (Program clock (ticks): 7904) (Thread ID: 139914887231232)
+slot 0: -1
+slot 1: -1
+slot 2: -1
+slot 3: -1
+slot 4: -1
+
+Consumer tries to consume at time Fri Mar 18 08:30:17 2016
+ (Program clock (ticks): 7913) (Thread ID: 139914887231232)
+Producer tries to insert 722 at time Fri Mar 18 08:30:18 2016
+ (Program clock (ticks): 7971) (Thread ID: 139914937587456)
+Producer produced 722 at time Fri Mar 18 08:30:18 2016
+ (Program clock (ticks): 8018) (Thread ID: 139914937587456)
+slot 0: -1
+slot 1: -1
+slot 2: 722
+slot 3: -1
+slot 4: -1
+
+Consumer consumed 722 at time Fri Mar 18 08:30:18 2016
+ (Program clock (ticks): 8046) (Thread ID: 139914887231232)
+slot 0: -1
+slot 1: -1
+slot 2: -1
+slot 3: -1
+slot 4: -1
+
+Consumer tries to consume at time Fri Mar 18 08:30:18 2016
+ (Program clock (ticks): 8095) (Thread ID: 139914895623936)
+Consumer tries to consume at time Fri Mar 18 08:30:18 2016
+ (Program clock (ticks): 8142) (Thread ID: 139914904016640)
+Consumer tries to consume at time Fri Mar 18 08:30:19 2016
+ (Program clock (ticks): 8193) (Thread ID: 139914912409344)
+Producer tries to insert 584 at time Fri Mar 18 08:30:20 2016
+ (Program clock (ticks): 8287) (Thread ID: 139914929194752)
+Producer produced 584 at time Fri Mar 18 08:30:20 2016
+ (Program clock (ticks): 8323) (Thread ID: 139914929194752)
+slot 0: -1
+slot 1: -1
+slot 2: -1
+slot 3: 584
+slot 4: -1
+
+Consumer consumed 584 at time Fri Mar 18 08:30:20 2016
+ (Program clock (ticks): 8345) (Thread ID: 139914895623936)
+slot 0: -1
+slot 1: -1
+slot 2: -1
+slot 3: -1
+slot 4: -1
+
+Consumer tries to consume at time Fri Mar 18 08:30:20 2016
+ (Program clock (ticks): 8352) (Thread ID: 139914895623936)
+Consumer tries to consume at time Fri Mar 18 08:30:20 2016
+ (Program clock (ticks): 8388) (Thread ID: 139914920802048)
+Producer tries to insert 276 at time Fri Mar 18 08:30:20 2016
+ (Program clock (ticks): 8475) (Thread ID: 139914945980160)
+Producer produced 276 at time Fri Mar 18 08:30:20 2016
+ (Program clock (ticks): 8482) (Thread ID: 139914945980160)
+slot 0: -1
+slot 1: -1
+slot 2: -1
+slot 3: -1
+slot 4: 276
+
+Producer tries to insert 933 at time Fri Mar 18 08:30:20 2016
+ (Program clock (ticks): 8494) (Thread ID: 139914945980160)
+Producer produced 933 at time Fri Mar 18 08:30:20 2016
+ (Program clock (ticks): 8498) (Thread ID: 139914945980160)
+slot 0: 933
+slot 1: -1
+slot 2: -1
+slot 3: -1
+slot 4: 276
+
+Consumer consumed 276 at time Fri Mar 18 08:30:20 2016
+ (Program clock (ticks): 8517) (Thread ID: 139914912409344)
+slot 0: 933
+slot 1: -1
+slot 2: -1
+slot 3: -1
+slot 4: -1
+
+Consumer consumed 933 at time Fri Mar 18 08:30:20 2016
+ (Program clock (ticks): 8530) (Thread ID: 139914904016640)
+slot 0: -1
+slot 1: -1
+slot 2: -1
+slot 3: -1
+slot 4: -1
+
+Producer tries to insert 581 at time Fri Mar 18 08:30:21 2016
+ (Program clock (ticks): 8600) (Thread ID: 139914954372864)
+Producer produced 581 at time Fri Mar 18 08:30:21 2016
+ (Program clock (ticks): 8651) (Thread ID: 139914954372864)
+slot 0: -1
+slot 1: 581
+slot 2: -1
+slot 3: -1
+slot 4: -1
+
+Producer tries to insert 558 at time Fri Mar 18 08:30:21 2016
+ (Program clock (ticks): 8603) (Thread ID: 139914937587456)
+Producer produced 558 at time Fri Mar 18 08:30:21 2016
+ (Program clock (ticks): 8738) (Thread ID: 139914937587456)
+slot 0: -1
+slot 1: 581
+slot 2: 558
+slot 3: -1
+slot 4: -1
+
+Consumer consumed 581 at time Fri Mar 18 08:30:21 2016
+ (Program clock (ticks): 8755) (Thread ID: 139914920802048)
+slot 0: -1
+slot 1: -1
+slot 2: 558
+slot 3: -1
+Producer tries to insert 656 at time Fri Mar 18 08:30:21 2016
+ (Program clock (ticks): 8670) (Thread ID: 139914962765568)
+slot 4: -1
+
+Consumer consumed 558 at time Fri Mar 18 08:30:21 2016
+ (Program clock (ticks): 8782) (Thread ID: 139914895623936)
+slot 0: -1
+slot 1: -1
+slot 2: -1
+slot 3: -1
+slot 4: -1
+
+Producer produced 656 at time Fri Mar 18 08:30:21 2016
+ (Program clock (ticks): 8795) (Thread ID: 139914962765568)
+slot 0: -1
+slot 1: -1
+slot 2: -1
+slot 3: 656
+slot 4: -1
+
+Producer tries to insert 402 at time Fri Mar 18 08:30:21 2016
+ (Program clock (ticks): 8831) (Thread ID: 139914945980160)
+Producer produced 402 at time Fri Mar 18 08:30:21 2016
+ (Program clock (ticks): 8865) (Thread ID: 139914945980160)
+slot 0: -1
+slot 1: -1
+slot 2: -1
+slot 3: 656
+slot 4: 402
+
+Producer tries to insert 683 at time Fri Mar 18 08:30:21 2016
+ (Program clock (ticks): 8872) (Thread ID: 139914945980160)
+Producer produced 683 at time Fri Mar 18 08:30:21 2016
+ (Program clock (ticks): 8875) (Thread ID: 139914945980160)
+slot 0: 683
+slot 1: -1
+slot 2: -1
+slot 3: 656
+slot 4: 402
+
+Consumer tries to consume at time Fri Mar 18 08:30:21 2016
+ (Program clock (ticks): 8888) (Thread ID: 139914912409344)
+Consumer consumed 656 at time Fri Mar 18 08:30:21 2016
+ (Program clock (ticks): 8893) (Thread ID: 139914912409344)
+slot 0: 683
+slot 1: -1
+slot 2: -1
+slot 3: -1
+slot 4: 402
+
+Consumer tries to consume at time Fri Mar 18 08:30:21 2016
+ (Program clock (ticks): 8897) (Thread ID: 139914912409344)
+Consumer consumed 402 at time Fri Mar 18 08:30:21 2016
+ (Program clock (ticks): 8900) (Thread ID: 139914912409344)
+slot 0: 683
+slot 1: -1
+slot 2: -1
+slot 3: -1
+slot 4: -1
+
